@@ -1,0 +1,14 @@
+{
+  "name": "tdd_primefactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primeFact.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
