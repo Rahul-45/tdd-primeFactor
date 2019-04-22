@@ -10,6 +10,7 @@ describe('Prime Factor Kata',()=>{
         expect(primeFact(7)).toEqual([7]);
         expect(primeFact(8)).toEqual([2,2,2]);
         expect(primeFact(9)).toEqual([3,3]);
+        expect(primeFact(10)).toEqual([2,5])
 
     })
 
