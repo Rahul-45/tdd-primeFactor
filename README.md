@@ -1,0 +1,2 @@
+# tdd-primeFactor
+kaizan
