@@ -1,2 +1,2 @@
 # tdd-primeFactor
-kxznk
+kxzn
