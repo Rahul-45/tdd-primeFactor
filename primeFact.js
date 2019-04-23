@@ -10,5 +10,5 @@ function primeFact(n){
     }
     return res;
 }
-
+console.log("Program run successfully");
 module.exports = primeFact
